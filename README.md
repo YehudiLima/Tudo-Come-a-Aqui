@@ -1,2 +1,2 @@
-# Tudo-Come-a-Aqui
+# Exercicios.py
 Novos projetos e testes para eles.
